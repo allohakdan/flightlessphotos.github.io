@@ -8,7 +8,7 @@ accordion:
   - title: Location Fees
     content: Some locations, such as parks and museums, have special fees and rules concerning professional photography. I am here to help you realize your vision! Let me help research any relevant additional costs and/or restrictions that may apply for the location you are hoping to use, all before you need to make any committements.
   - title: Travel Fees
-    content: There is a Travel Fee of $0.75/mile for locations more than 60 minutes or 35 miles away from Arlington, MA. This is the standard minimum rate for the U.S. Government. I travel on a regular basis, and travel fees do not apply if I am already in an area traveling for another reason.
+    content: There is a Travel Fee of $0.75/mile for locations more than 60 minutes or 35 miles away from Arlington, MA. This is the standard minimum rate for the U.S. Government. Travel fees only apply if I am traveling specifically for your shoot, they do not apply if I am already in an area traveling for another reason.
   - title: Help, I can't afford this!
     content: I know what it is like to be stuck living paycheck-to-paycheck. While I can't lower the prices and I don't believe in predatory loans, if you are willing to be flexible there are other ways I can help you figure out to make this work! Photography pricing is complicated, and while the prices on this page are accurate, they have also been simplified. Some additional options may be available that are not listed. My consultation sessions are free, and I can help you understand ALL the currently available options that might be helpful to you. I also promise not to pressure you into anything you should not be buying on your budget.
   - title: Why are your prices so expensive?
@@ -21,7 +21,10 @@ accordion:
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
-
+<style>
+dt { font-weight: bold; }
+dd { margin-left: 2em; }
+</style>
 
 <div class="white-block">
 <h2> Individual Photography </h2>
