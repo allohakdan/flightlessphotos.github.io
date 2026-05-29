@@ -10,7 +10,7 @@ accordion:
   - title: Travel Fees
     content: There is a Travel Fee of $0.75/mile for locations more than 60 minutes or 35 miles away from Arlington, MA. This is the standard minimum rate for the U.S. Government. I travel on a regular basis, and travel fees do not apply if I am already in an area traveling for another reason.
   - title: Help, I can't afford this!
-    content: I know what it is like to be stuck living paycheck-to-paycheck. While I can't lower the prices and I don't believe in predatory loans, if you are willing to be flexible there are other ways I might be able to help you figure out how we can make it work! Photography pricing is complicated, and while the prices on this page are accurate, they have also been simplified. Some additional options may be available that are not listed. My consultation sessions are free, I can help you better understand all the currently available options, and I promise not to pressure you into anything.
+    content: I know what it is like to be stuck living paycheck-to-paycheck. While I can't lower the prices and I don't believe in predatory loans, if you are willing to be flexible there are other ways I can help you figure out to make this work! Photography pricing is complicated, and while the prices on this page are accurate, they have also been simplified. Some additional options may be available that are not listed. My consultation sessions are free, and I can help you understand ALL the currently available options that might be helpful to you. I also promise not to pressure you into anything you should not be buying on your budget.
   - title: Why are your prices so expensive?
     content: The only thing more expensive than paying for photography is being a professional photographer! The cameras, lighting equipment, backdrops, software subscriptions, equipment maintance, and server costs - it all adds up to a LOT of money. When you pay for a shoot, you are not only paying for the time I spend with you taking pictures, you are also paying for several more hours of my time that I spend planning out the shoot, editing photos, etc. And you are also helping me cover the costs listed above. 
   - title: Why are your prices so cheap? Your photos are really good! 
@@ -92,11 +92,24 @@ Includes Family Portraits, Group Photos, Team Photos, and Class Photos
 <div class="white-block">
 <div class="row">
 <div class="box">
-<h2> Timeless Portraits </h2>
-We might let the kids act silly, but these are timeless portraits. 
-We use classic soft lighting techniques and a white seamless backdrop to really focus on your child. 
-Instead of encouraging an artificial smile, we work to capture authentically joyful moments that really express their personality. 
-The results are lifelong keepsakes that portray the true personality of your child at this moment in time.
+<h2>Event and Sports Photography </h2>
+<h3>$125 for 1 hour session </h3>
+<dl>
+<dt>Includes</dt>
+    <dd>Hosted gallery for 1 year. Optional Private Listing, Password Protection.</dd>
+    <dd>License: non-exclusive, limited, perpetual license to display, upload, email, print, and share for advertising, marketing, and sales purposes. Excludes selling or editing the images without consent from Flightless Photos LLC.</dd>
+<dt>Add ons</dt>
+    <dd>Location and Travel Fees may apply (see below)</dd>
+    <dd>Low Light Environment: + $200</dd>
+    <dd>All Sports: + $200</dd>
+    <dd>Extended gallery hosting: + $20/year</dd>
+    <dd>Custom Photo Branding / Remove Watermark: + $25/hour</dd>
+    <dd>Photo Resale License: + $25</dd>
+</dl>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids4.jpg"/></div>
 </div> <!-- end row -->
