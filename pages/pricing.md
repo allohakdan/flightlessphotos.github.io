@@ -23,7 +23,7 @@ accordion:
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 <style>
 dt { font-weight: bold; }
-dd { margin-left: 2em; }
+dd { display: list-item; margin-left: 1.5em; }
 </style>
 
 <div class="white-block">
