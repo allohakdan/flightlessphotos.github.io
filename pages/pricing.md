@@ -5,8 +5,10 @@ permalink: /pricing
 accordion: 
   - title: Additional Services Available
     content: Looking for something else? The list above has been intentionally simplified to make the prices easy to understand. I have several different for-hire models that are not listed here.  If you are looking for something that doesn't fit into one of the above categories, I am still excited to be your photographer! Please book a [free consultation](flightlessphotos.com/free-consultation) with me so I can help you one-on-one.
+  - title: Location Fees
+    content: Some locations, such as parks and museums, have special fees and rules concerning professional photography. I am here to help you realize your vision! Let me help research any relevant additional costs and/or restrictions that may apply for the location you are hoping to use, all before you need to make any committements.
   - title: Travel Fees
-    content: Some locations, such as parks, and museums, have special fees and rules concerning professional photography. I can help research the the relevant costs and restrictions of any location you are hoping to use before you make any committements. There is a Travel Fee of $0.75/mile for locations more than 60 minutes or 35 miles away from Arlington, MA. This is the standard minimum rate for the U.S. Government. I travel on a regular basis, and travel fees do not apply if I am already in an area traveling for another reason. 
+    content: There is a Travel Fee of $0.75/mile for locations more than 60 minutes or 35 miles away from Arlington, MA. This is the standard minimum rate for the U.S. Government. I travel on a regular basis, and travel fees do not apply if I am already in an area traveling for another reason.
   - title: Help, I can't afford this!
     content: I know what it is like to be stuck living paycheck-to-paycheck. While I can't lower the prices and I don't believe in predatory loans, if you are willing to be flexible there are other ways I might be able to help you figure out how we can make it work! Photography pricing is complicated, and while the prices on this page are accurate, they have also been simplified. Some additional options may be available that are not listed. My consultation sessions are free, I can help you better understand all the currently available options, and I promise not to pressure you into anything.
   - title: Why are your prices so expensive?
@@ -22,32 +24,62 @@ accordion:
 
 
 <div class="white-block">
-Prices last updated May 2026.
+<h2> Individual Photography </h2>
+Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
+<br/>&nbsp;<br/>
+<h3>$100 for 1 hour session </h3>
+<dl>
+<dt>Includes</dt>
+    <dd>5 professionally edited / retouched images of your choice</dd>
+    <dd>Multiple Outfits</dd>
+    <dd>Wardrobe suggestions</dd>
+    <dd>Pre-photoshoot consultation</dd>
+    <dd>Shoot planning and location coordination</dd>
+    <dd>Posing direction</dd>
+<dt>Add ons</dt>
+    <dd>Location and Travel Fees may apply (see below)</dd>
+    <dd>Studio Rental: + $150</dd>
+    <dd>Colored Lights + Smoke: + $150</dd>
+    <dd>30 Additional Minutes (more outfits, poses): $50/each</dd>
+    <dd>Additional Photos (professionally edited / retouched): $20/each</dd>
+</dl>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end white-block -->
 
 <div class="color-block">
 <div class="row">
 <div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids2.jpg"/></div>
 <div class="box">
-<h2> Individual Photography </h2>
-Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
+<h2> Family/Group Photography </h2>
+Includes Family Portraits, Group Photos, Team Photos, and Class Photos
 <br/>&nbsp;<br/>
-$100 for 1 hour session <br/>
+<h3>$75 for 45 minute session base fee</h3>
+<ul>
+<li>+ $15 per person/pet (first 5 people, 2 person minimum)</li>
+<li>+ $5 per person (after the first 5 people)</li>
+</ul>
 <dl>
 <dt>Includes</dt>
-<dd>5 professionally edited / retouched images of your choice</dd>
-<dd>Multiple Outfits</dd>
-<dd>Wardrobe suggestions</dd>
-<dd>Pre-photoshoot consultation</dd>
-<dd>Shoot planning and location coordination</dd>
-<dd>Posing direction</dd>
+    <dd>2 professionally edited / retouched images of your choice</dd>
+    <dd>Single Outfit per Person</dd>
+    <dd>2 Poses and/or settings (for Family Portraits only)</dd>
+    <dd>Wardrobe suggestions</dd>
+    <dd>Pre-photoshoot consultation</dd>
+    <dd>Shoot planning and location coordination</dd>
+    <dd>Posing direction</dd>
+    <dd>Free Silly Photos!</dd>
 <dt>Add ons</dt>
-<dd>Location and Travel Fees may apply (see below)</dd>
-<dd>Studio Rental: + $150</dd>
-<dd>Colored Lights + Smoke: + $150</dd>
-<dd>30 Additional Minutes (more outfits, poses): $50/each</dd>
-<dd>Additional Photos (professionally edited / retouched): $20/each</dd>
+    <dd>Location and Travel Fees may apply (see below)</dd>
+    <dd>Studio Rental: + $150</dd>
+    <dd>Colored Lights + Smoke: + $150</dd>
+    <dd>30 Extra Minutes (helpful for small children, required for groups &gt; 8): + $50</dd>
+    <dd>Additional Photos (professionally edited / retouched): $20/each</dd>
+    <dd>2 Additional Poses + 30 Minutes (Family Portraits only): + $50</dd>
 </dl>
+<br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
 </div> <!-- end button -->
