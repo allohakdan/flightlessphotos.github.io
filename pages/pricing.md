@@ -27,6 +27,9 @@ dd { display: list-item; margin-left: 1.5em; }
 </style>
 
 <div class="white-block">
+<div class="row">
+
+<div class="box">
 <h2> Individual Photography </h2>
 Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
 <br/>&nbsp;<br/>
@@ -50,6 +53,10 @@ Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
 <div class="button-wrapper">
  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
 </div> <!-- end button -->
+
+</div> <!-- end box -->
+<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids2.jpg"/></div>
+</div> <!-- end row -->
 </div> <!-- end white-block -->
 
 <div class="color-block">
