@@ -61,8 +61,8 @@ Includes Family Portraits, Group Photos, Team Photos, and Class Photos
 <br/>&nbsp;<br/>
 <dl>
 <dt style="font-size: 1.1em; text-align: center;">$75 for 45 minute session base fee</dt>
-    <dd>+ $15 per person/pet (first 5 people, 2 person minimum)</dd>
-    <dd>+ $5 per person (after the first 5 people)</dd>
+    <dd style="display: block;">+ $15 per person/pet (first 5 people, 2 person minimum)</dd>
+    <dd style="display: block;">+ $5 per person (after the first 5 people)</dd>
 <dt>Includes</dt>
     <dd>2 professionally edited / retouched images of your choice</dd>
     <dd>Single Outfit per Person</dd>
@@ -94,8 +94,8 @@ Includes Family Portraits, Group Photos, Team Photos, and Class Photos
 <div class="row">
 <div class="box">
 <h2>Event and Sports Photography </h2>
-<h3>$125 for 1 hour session </h3>
 <dl>
+<dt style="font-size: 1.1em; text-align: center;">$125 for 1 hour session</dt>
 <dt>Includes</dt>
     <dd>Hosted gallery for 1 year. Optional Private Listing, Password Protection.</dd>
     <dd>License: non-exclusive, limited, perpetual license to display, upload, email, print, and share for advertising, marketing, and sales purposes. Excludes selling or editing the images without consent from Flightless Photos LLC.</dd>
