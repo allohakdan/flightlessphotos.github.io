@@ -4,7 +4,7 @@ title: Pricing
 permalink: /pricing
 accordion: 
   - title: Additional Services Available
-    content: Looking for something else? The list above has been intentionally simplified to make the prices easy to understand. I have several different for-hire models that are not listed here.  If you are looking for something that doesn't fit into one of the above categories, I am still excited to be your photographer! Please book a [free consultation](flightlessphotos.com/free-consultation) with me so I can help you one-on-one.
+    content: Looking for something else? I have several different for-hire models that are not listed here.  If you are looking for something that doesn't fit into one of the above categories, I am still excited to be your photographer! Please book a [free consultation](flightlessphotos.com/free-consultation) with me so I can help you one-on-one.
   - title: Location Fees
     content: Some locations, such as parks and museums, have special fees and rules concerning professional photography. I am here to help you realize your vision! Let me help research any relevant additional costs and/or restrictions that may apply for the location you are hoping to use, all before you need to make any committements.
   - title: Travel Fees
@@ -57,12 +57,13 @@ Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
 <div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids2.jpg"/></div>
 <div class="box">
 <h2> Family/Group Photography </h2>
-Includes Family Portraits, Group Photos, Team Photos, and Class Photos
+Includes Family Portraits, Group, Team, and Class Photos
 <br/>&nbsp;<br/>
 <dl>
 <dt style="font-size: 1.1em; text-align: center;">$75 for 45 minute session base fee</dt>
     <dd style="display: block;">+ $15 per person/pet (first 5 people, 2 person minimum)</dd>
     <dd style="display: block;">+ $5 per person (after the first 5 people)</dd>
+    <dd style="display: block;">+ $50 for groups > 8 (30 extra minutes)</dd>
 <dt>Includes</dt>
     <dd>2 professionally edited / retouched images of your choice</dd>
     <dd>Single Outfit per Person</dd>
@@ -76,7 +77,7 @@ Includes Family Portraits, Group Photos, Team Photos, and Class Photos
     <dd>Location and Travel Fees may apply (see below)</dd>
     <dd>Studio Rental: + $150</dd>
     <dd>Colored Lights + Smoke: + $150</dd>
-    <dd>30 Extra Min (helpful for small kids, required for groups &gt; 8): + $50</dd>
+    <dd>+30 Extra Min (helpful for small kids, groups &gt; 8): + $50</dd>
     <dd>Additional Photos (including editing / retouch): $20/each</dd>
     <dd>2 Additional Poses + 30 Min (Family Portraits only): + $50</dd>
 </dl>
