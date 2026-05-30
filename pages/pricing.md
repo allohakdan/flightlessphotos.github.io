@@ -59,12 +59,10 @@ Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
 <h2> Family/Group Photography </h2>
 Includes Family Portraits, Group Photos, Team Photos, and Class Photos
 <br/>&nbsp;<br/>
-<h3>$75 for 45 minute session base fee</h3>
-<ul>
-<li>+ $15 per person/pet (first 5 people, 2 person minimum)</li>
-<li>+ $5 per person (after the first 5 people)</li>
-</ul>
 <dl>
+<dt style="font-size: 1.5em; text-align: center;">$75 for 45 minute session base fee</dt>
+    <dd>+ $15 per person/pet (first 5 people, 2 person minimum)</dd>
+    <dd>+ $5 per person (after the first 5 people)</dd>
 <dt>Includes</dt>
     <dd>2 professionally edited / retouched images of your choice</dd>
     <dd>Single Outfit per Person</dd>
