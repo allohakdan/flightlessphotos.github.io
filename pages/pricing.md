@@ -14,7 +14,7 @@ accordion:
   - title: Why are photographers so expensive?
     content: The only thing more expensive than paying for photography is being a professional photographer! The cameras, lighting equipment, backdrops, software subscriptions, equipment maintance, and server costs - it all adds up to a LOT of money. When you pay for a shoot, you are not only paying for the time I spend with you taking pictures, you are also paying for several more hours of my time that I spend planning out the shoot, editing photos, etc. And you are also helping me cover the costs listed above. 
   - title: Why are your prices so cheap? Your photos are really good! 
-    content: If you insist on paying more, I have a coupon code that will raise the price for you! Just kidding, but actually [I really do appreciate tips](https://ko-fi.com/flightlessphotos). Pricing is very complicated, and I could probably charge more. That said, I try to keep my prices fair and affordable so everyone can have access to quality photography. 
+    content: If you insist on paying more, I have a coupon code that will raise the price for you! Just kidding, but actually [I really do appreciate tips](https://ko-fi.com/flightlessphotos). Pricing is very complicated, but I try to keep my prices fair and affordable so everyone can have access to quality photography. 
   - title: Are more expensive photos better?
     content: Paying a higher price does not mean you get better photos. Photography is an art! Some art is very expensive, while some, like what you might buy at a local craft show, is more affordable. If you like my photos and can afford my prices, we are a perfect match and you will be very happy with the results! 
 ---
