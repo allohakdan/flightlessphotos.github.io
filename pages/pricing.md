@@ -31,7 +31,7 @@ dd { display: list-item; margin-left: 1.5em; }
 
 <div class="box">
 <h2> Individual Photography </h2>
-Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
+Includes Portraits, Cosplay, Kids, Sports Portraits, and Pets
 <br/>&nbsp;<br/>
 <dl>
 <dt style="font-size: 1.1em; text-align: center;">$100 for 1 hour session</dt>
@@ -53,15 +53,14 @@ Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
 <div class="button-wrapper">
  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
 </div> <!-- end button -->
-
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids2.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/pricing/portrait.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
 <div class="color-block">
 <div class="row">
-<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids2.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/pricing/family.jpg"/></div>
 <div class="box">
 <h2> Family/Group Photography </h2>
 Includes Family Portraits, Group, Team, and Class Photos
@@ -120,7 +119,7 @@ Includes Family Portraits, Group, Team, and Class Photos
  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
 </div> <!-- end button -->
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids4.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/pricing/event.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
