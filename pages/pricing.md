@@ -44,7 +44,7 @@ Includes Portraits, Cosplay, Kids Personalities, Sports Portraits, and Pets
     <dd>Studio Rental: + $150</dd>
     <dd>Colored Lights + Smoke: + $150</dd>
     <dd>30 Additional Minutes (more outfits, poses): $50/each</dd>
-    <dd>Additional Photos (professionally edited / retouched): $20/each</dd>
+    <dd>Additional Photos (including editing / retouch): $20/each</dd>
 </dl>
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
@@ -76,9 +76,9 @@ Includes Family Portraits, Group Photos, Team Photos, and Class Photos
     <dd>Location and Travel Fees may apply (see below)</dd>
     <dd>Studio Rental: + $150</dd>
     <dd>Colored Lights + Smoke: + $150</dd>
-    <dd>30 Extra Minutes (helpful for small children, required for groups &gt; 8): + $50</dd>
-    <dd>Additional Photos (professionally edited / retouched): $20/each</dd>
-    <dd>2 Additional Poses + 30 Minutes (Family Portraits only): + $50</dd>
+    <dd>30 Extra Min (helpful for small kids, required for groups &gt; 8): + $50</dd>
+    <dd>Additional Photos (including editing / retouch): $20/each</dd>
+    <dd>2 Additional Poses + 30 Min (Family Portraits only): + $50</dd>
 </dl>
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
