@@ -102,7 +102,7 @@ Includes Family Portraits, Group, Team, and Class Photos
 <div class="box">
 <h2>Event and Sports Photography </h2>
 <dl>
-<dt style="font-size: 1.1em; text-align: center;">$125 for 1 hour session</dt>
+<dt style="font-size: 1.1em; text-align: center;">$125/hour, 1 hour minimum</dt>
 <dt>Includes</dt>
     <dd>Hosted gallery for 1 year. Optional Private Listing, Password Protection.</dd>
     <dd>License: non-exclusive, limited, perpetual license to display, upload, email, print, and share for advertising, marketing, and sales purposes. Excludes selling or editing the images without consent from Flightless Photos LLC.</dd>
