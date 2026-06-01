@@ -30,17 +30,6 @@ Our contact form is easy to fill out, and you will get answers right to your ema
 </div> <!-- end button -->
 
 <br/>&nbsp;<br/>
-<!--
-<div class="color-block">
-<h2>Free Consultations</h2>
-If you are looking for more information, or just not ready to commit, the best way to get started is to schedule a Free 30 Minute Consultation with me. There will not be any pressure to commit to anything!
-Not ready for a conversation
-<br/>&nbsp;<br/>
-<div class="button-wrapper">
- <a class="button button-white" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Go to Online Booking</a>
- -->
-<!--</div>--> <!-- end button -->
-<!--</div>--> <!-- end color-block -->
 
 <h2>General Booking - What to expect</h2>
 <ol>
