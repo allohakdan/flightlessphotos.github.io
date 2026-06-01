@@ -7,25 +7,26 @@ permalink: /booking2
 <!--<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">-->
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
-<p>
 Ready to get started!? 
-The first step is easy, and it is free! 
+Or maybe you are just looking for some more information?
+Either way, the first step is easy, and it is free! 
 Schedule a free 30 min consultation with me so we can get started talking details. 
 We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot will be like.
-<br/>&nbsp;<br/>
 <div class="button-wrapper">
- <a class="button button-color" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Click here to get started!</a>
+ <a class="button button-color" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Go to Online Booking System</a>
 </div> <!-- end button -->
-</p>
+<br/>&nbsp;<br/>
 
+<!--
 <div class="color-block">
 <h2>Free Consultations</h2>
-Whether you are ready to schedule a shoot, or just looking for more information, the best way to get started is to schedule a Free 30 Minute Consultation with me. There will not be any pressure to commit to anything!
+If you are looking for more information, or just not ready to commit, the best way to get started is to schedule a Free 30 Minute Consultation with me. There will not be any pressure to commit to anything!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Go to Online Booking</a>
-</div> <!-- end button -->
-</div> <!-- end color-block -->
+ -->
+<!--</div>--> <!-- end button -->
+<!--</div>--> <!-- end color-block -->
 
 <h2>General Booking - What to expect</h2>
 <ol>
