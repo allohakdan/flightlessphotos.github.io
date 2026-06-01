@@ -10,17 +10,31 @@ permalink: /booking2
 Ready to get started!? 
 Or maybe you are just looking for some more information?
 Either way, the first step is easy, and it is free! 
-Schedule a free 30 min consultation with me so we can get started talking details. 
+Schedule a <b>Free 30 Minute Phone Consultation</b> with me so we can get started talking details. 
 We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot will be like.
+There will not be any pressure to commit to anything!
+
 <div class="button-wrapper">
  <a class="button button-color" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Go to Online Booking System</a>
 </div> <!-- end button -->
 <br/>&nbsp;<br/>
 
+<h2>I have questions, but I'm not ready to talk yet</h2>
+That is ok, we got you! 
+Maybe you just have a simple question you need answered.
+Or perhaps you don't feel comfortable with having a spoken conversation.
+Our contact form is easy to fill out, and you will get answers right to your email inbox! 
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/contact">Online Contact Form</a>
+</div> <!-- end button -->
+
+<br/>&nbsp;<br/>
 <!--
 <div class="color-block">
 <h2>Free Consultations</h2>
 If you are looking for more information, or just not ready to commit, the best way to get started is to schedule a Free 30 Minute Consultation with me. There will not be any pressure to commit to anything!
+Not ready for a conversation
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Go to Online Booking</a>
