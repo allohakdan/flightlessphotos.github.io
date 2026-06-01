@@ -7,6 +7,7 @@ permalink: /booking2
 <!--<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">-->
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
+<p>
 Ready to get started!? 
 The first step is easy, and it is free! 
 Schedule a free 30 min consultation with me so we can get started talking details. 
@@ -15,7 +16,7 @@ We will discuss what kind of photos you are looking for, where you would like to
 <div class="button-wrapper">
  <a class="button button-color" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Click here to get started!</a>
 </div> <!-- end button -->
-
+</p>
 
 <div class="color-block">
 <h2>Free Consultations</h2>
