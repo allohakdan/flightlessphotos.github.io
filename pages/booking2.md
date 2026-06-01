@@ -15,16 +15,14 @@ We will discuss what kind of photos you are looking for, where you would like to
 There will not be any pressure to commit to anything!
 
 <div class="button-wrapper">
- <a class="button button-color" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Go to Online Booking System</a>
+ <a class="button button-color" href="{{ site.github.url }}/online-booking">Go to Online Booking System</a>
 </div> <!-- end button -->
-<br/>&nbsp;<br/>
 
 <h2>I have questions, but I'm not ready to talk yet</h2>
 That is ok, we got you! 
 Maybe you just have a simple question you need answered.
 Or perhaps you don't feel comfortable with having a spoken conversation.
 Our contact form is easy to fill out, and you will get answers right to your email inbox! 
-<br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-color" href="{{ site.github.url }}/contact">Online Contact Form</a>
 </div> <!-- end button -->
@@ -33,7 +31,7 @@ Our contact form is easy to fill out, and you will get answers right to your ema
 
 <h2>General Booking - What to expect</h2>
 <ol>
-<li><span style="text-shadow: 0.3px 0 0 currentColor;">Book A Free Consultation</span> - We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot would be like. Absolutely no pressure to commit to anything!</li>
+<li><span style="text-shadow: 0.3px 0 0 currentColor;"><a href="{{ site.github.url }}/online-booking">Book A Free Consultation</a></span> - We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot would be like. Absolutely no pressure to commit to anything!</li>
 <li><span style="text-shadow: 0.3px 0 0 currentColor;">Receive an Estimate</span> - I will take care of any research that may be needed and let you know when we can do the photoshoot and how much it will cost! For example, venues and public spaces often have rules and fees when it comes to using their space for professional photography. I will take care of working out the logistics to help you factor in any costs or limitations before you make any decisions. These are hard times, so I try to make my services as affordable as I can!</li>
 <li><span style="text-shadow: 0.3px 0 0 currentColor;">Pay the Invoice</span> - When you are ready, I will send you an invoice to pay, and then we can really get things started!</li>
 <li><span style="text-shadow: 0.3px 0 0 currentColor;">Pre-Photoshoot Consultation</span> - Need wardrobe suggestions? I've got you covered! Want to put together a shot list? This is the time! Feeling artistic and want to create a mood board and talk color schemes? Let's do it! </li>
