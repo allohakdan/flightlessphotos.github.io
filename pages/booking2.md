@@ -11,7 +11,7 @@ permalink: /booking2
 Ready to get started!? 
 The first step is easy, and it is free! 
 Schedule a free 30 min consultation with me so we can get started talking details. 
-We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot would be like.
+We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot will be like.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-color" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Click here to get started!</a>
