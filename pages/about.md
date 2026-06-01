@@ -52,6 +52,9 @@ For your comfort and safety, I am happy to remain masked at all times if request
 
 If you are feeling sick or have been in close contact with someone you believe may be sick, please let me know and I will gladly reschedule our shoot together to another time at your convenience and free of charge. 
   
+</div> <!-- end white-block -->
+
+<div class="white-block">
 <h2>Contact Information</h2>
 I'm excited to meet you! Need to get in touch with me? My professional contact information is listed below. I will respond to you as quickly as I can, but please be patient. I am just a regular person, who sometimes has a lot going on!
 <ul>
