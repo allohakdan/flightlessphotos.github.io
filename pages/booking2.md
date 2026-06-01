@@ -7,6 +7,16 @@ permalink: /booking2
 <!--<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">-->
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
+Ready to get started!? 
+The first step is easy, and it is free! 
+Schedule a free 30 min consultation with me so we can get started talking details. 
+We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot would be like.
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Click here to get started!</a>
+</div> <!-- end button -->
+
+
 <div class="color-block">
 <h2>Free Consultations</h2>
 Whether you are ready to schedule a shoot, or just looking for more information, the best way to get started is to schedule a Free 30 Minute Consultation with me. There will not be any pressure to commit to anything!
