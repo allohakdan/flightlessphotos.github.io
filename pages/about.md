@@ -52,8 +52,17 @@ For your comfort and safety, I am happy to remain masked at all times if request
 
 If you are feeling sick or have been in close contact with someone you believe may be sick, please let me know and I will gladly reschedule our shoot together to another time at your convenience and free of charge. 
   
-</div> <!-- end white-block -->
+<h2>Contact Information</h2>
+I'm excited to meet you! Need to get in touch with me? My professional contact information is listed below. I will respond to you as quickly as I can, but please be patient. I am just a regular person, who sometimes has a lot going on!
+<ul>
+<li> Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a> </li>
+<li> Text or Call <a href="tel:3047294636">(304) 729-4636</a></li>
+</ul>
 
+</div> <!-- end white-block -->
+<!--
+ For quotes or to to book a photoshoot, please fill out our <a href="{{ site.github.url }}/contact">Online Contact Form</a> or get in touch with me via
+-->
 
 
 
