@@ -7,21 +7,14 @@ permalink: /booking2
 <!--<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">-->
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
-<div class="white-block">
-I'm excited to work with you! For quotes or to to book a photoshoot, please fill out our <a href="{{ site.github.url }}/contact">Online Contact Form</a> or get in touch with me via
-<ul>
-<li> Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a> </li>
-<li> Text or Call <a href="tel:3047294636">(304) 729-4636</a></li>
-</ul>
-</div> <!-- end white-block -->
-
 <div class="color-block">
-Whether you are ready to schedule a shoot with me, or just looking for more information, the best way to get started is to schedule a Free 30 Minute Consultation with me. 
+<h2>Free Consultations</h2>
+Whether you are ready to schedule a shoot, or just looking for more information, the best way to get started is to schedule a Free 30 Minute Consultation with me. There will not be any pressure to commit to anything!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="https://flightlessphotos.pixieset.com/booking/free-consultation">Go to Online Booking</a>
 </div> <!-- end button -->
-</div> <!-- end white-block -->
+</div> <!-- end color-block -->
 
 <h2>General Booking - What to expect</h2>
 <ol>
