@@ -54,7 +54,7 @@ If you are feeling sick or have been in close contact with someone you believe m
   
 </div> <!-- end white-block -->
 
-<div class="white-block">
+<div class="color-block">
 <h2>Contact Information</h2>
 I'm excited to meet you! Need to get in touch with me? My professional contact information is listed below. I will respond to you as quickly as I can, but please be patient. I am just a regular person, who sometimes has a lot going on!
 <ul>
@@ -62,7 +62,7 @@ I'm excited to meet you! Need to get in touch with me? My professional contact i
 <li> Text or Call <a href="tel:3047294636">(304) 729-4636</a></li>
 </ul>
 
-</div> <!-- end white-block -->
+</div> <!-- end color-block -->
 <!--
  For quotes or to to book a photoshoot, please fill out our <a href="{{ site.github.url }}/contact">Online Contact Form</a> or get in touch with me via
 -->
