@@ -18,16 +18,13 @@ There will not be any pressure to commit to anything!
  <a class="button button-color" href="{{ site.github.url }}/online-booking">Go to Online Booking System</a>
 </div> <!-- end button -->
 
-<h2>I have questions, but I'm not ready to talk yet</h2>
-That is ok, we got you! 
-Maybe you just have a simple question you need answered.
-Or perhaps you don't feel comfortable with having a spoken conversation.
-Our contact form is easy to fill out, and you will get answers right to your email inbox! 
+<h2>Help, I still have quesetions! </h2>
+Whether you just want to ask a question, or simply don't like talking on the phone, I'm here to help to help you! 
+Just click the button below and fill out the short form, and you will get answers directly to your email inbox! 
+I personally reply to questions in the order I receive them, as soon as I have time (typically within 1 or 2 business days).
 <div class="button-wrapper">
- <a class="button button-color" href="{{ site.github.url }}/contact">Online Contact Form</a>
+ <a class="button button-color" href="{{ site.github.url }}/contact">Contact Form</a>
 </div> <!-- end button -->
-
-<br/>&nbsp;<br/>
 
 <h2>General Booking - What to expect</h2>
 <ol>
