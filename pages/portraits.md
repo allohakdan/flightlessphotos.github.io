@@ -62,6 +62,23 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="white-block">
 <div class="row">
 <div class="box">
+<h2> Family Portraits </h2>
+
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+  <a class="button button-color" href="{{ site.github.url }}/family">Learn More</a>
+</div> <!-- end button -->
+</div> <!-- end box -->
+
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
+</div> <!-- end row -->
+</div> <!-- end white-block -->
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<div class="color-block">
+<div class="row">
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
+<div class="box">
 <h2> Kids Personality Portraits </h2>
  Kids grow up so fast! 
  Let's create a timeless keepsake showcasing who they are at this moment in their lives. 
@@ -73,16 +90,14 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 </div> <!-- end button -->
 </div> <!-- end box -->
 
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-<div class="color-block">
+<div class="white-block">
 <div class="row">
 
-<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
 <div class="box">
 <h2> Maternity Portraits </h2>
  What a truly amazing time this is for you! 
@@ -96,8 +111,29 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 </div> <!-- end button -->
 </div> <!-- end box -->
 
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
 </div> <!-- end row -->
 </div><!-- end color-block -->
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<div class="color-block">
+<div class="row">
+
+<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
+<div class="box">
+<h2> Pet Portraits </h2>
+
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/maternity">Learn More</a>
+</div> <!-- end button -->
+</div> <!-- end box -->
+
+</div> <!-- end row -->
+</div><!-- end color-block -->
+
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 <div class="row">
