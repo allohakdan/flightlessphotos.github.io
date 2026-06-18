@@ -14,6 +14,8 @@ window.onbeforeunload = () => {
   }
 }
 
+// This does not work because we are using formspree.io
+// Typically you would add onsubmit="formRedirect()" to the <form>
 function formRedirect() {
   window.location.href = '/contact-thanks';
 }
@@ -25,7 +27,7 @@ function formRedirect() {
 
 
 <div class="contactform">
-    <form id="contact" class="form autofill" method="POST" action="https://formspree.io/f/xqayezyj" onsubmit="formRedirect()">
+    <form id="contact" class="form autofill" method="POST" action="https://formspree.io/f/xqayezyj">
         <input type="hidden" name="subject" value="New submission!">    
         <div class="half">
             <label for="firstname">First name</label>
