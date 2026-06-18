@@ -86,7 +86,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
-  <a class="button button-color" href="{{ site.github.url }}/personality">Learn More</a>
+  <a class="button button-white" href="{{ site.github.url }}/personality">Learn More</a>
 </div> <!-- end button -->
 </div> <!-- end box -->
 
@@ -107,7 +107,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
- <a class="button button-white" href="{{ site.github.url }}/maternity">Learn More</a>
+ <a class="button button-color" href="{{ site.github.url }}/maternity">Learn More</a>
 </div> <!-- end button -->
 </div> <!-- end box -->
 
@@ -126,7 +126,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
- <a class="button button-white" href="{{ site.github.url }}/maternity">Learn More</a>
+ <a class="button button-white" href="{{ site.github.url }}/pets">Learn More</a>
 </div> <!-- end button -->
 </div> <!-- end box -->
 
