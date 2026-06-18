@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Booking Information
-permalink: /booking2
+permalink: /booking
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <!--<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">-->
