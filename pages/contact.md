@@ -33,7 +33,7 @@ window.onbeforeunload = () => {
         </div>
             
         <div>
-            <label for="email">Email address</label>
+            <label for="email">Email address (reply will be sent here!)</label>
             <input type="email" name="email" id="email" class="form-control" required="">
         </div>
 
@@ -106,7 +106,7 @@ window.onbeforeunload = () => {
 -->
 
          <div>
-            <label for="message">Message (optional)</label>
+            <label for="message">Message</label>
             <textarea name="message" id="message" cols="30" rows="10" class="form-control"></textarea>
         </div>
         
