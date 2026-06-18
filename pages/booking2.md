@@ -18,14 +18,6 @@ There will not be any pressure to commit to anything!
  <a class="button button-color" href="{{ site.github.url }}/online-booking">Go to Online Booking System</a>
 </div> <!-- end button -->
 
-<h2>Help, I still have quesetions! </h2>
-Whether you just want to ask a question, or simply don't like talking on the phone, I'm here to help to help you! 
-Just click the button below and fill out the short form, and you will get answers directly to your email inbox! 
-I personally reply to questions in the order I receive them, as soon as I have time (typically within 1 or 2 business days).
-<div class="button-wrapper">
- <a class="button button-color" href="{{ site.github.url }}/contact">Contact Form</a>
-</div> <!-- end button -->
-
 <h2>General Booking - What to expect</h2>
 <ol>
 <li><span style="text-shadow: 0.3px 0 0 currentColor;"><a href="{{ site.github.url }}/online-booking">Book A Free Consultation</a></span> - We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot would be like. Absolutely no pressure to commit to anything!</li>
@@ -37,3 +29,13 @@ I personally reply to questions in the order I receive them, as soon as I have t
 <li><span style="text-shadow: 0.3px 0 0 currentColor;">Developing and Retouching</span> - The camera captures the light, but the photographer crafts the image. This is the digital equivalent of professionally developing film. If you requested retouching, I will also go through the photos and use Adobe Photoshop to clean up things like skin imperfections or other details you request.</li>
 <li><span style="text-shadow: 0.3px 0 0 currentColor;">Delivery!</span> - You will receive digital copies of your photographs delivered as full-size, high resolution JPG images. Additional versions, such as web-friendly files, can also be made available.</li>
 </ol>
+
+<h2>Help, I still have quesetions! </h2>
+Whether you just want to ask a question, or simply don't like talking on the phone, I'm here to help to help you! 
+Just click the button below and fill out the short form, and you will get answers directly to your email inbox! 
+I personally reply to questions in the order I receive them, as soon as I have time (typically within 1 or 2 business days).
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/contact">Contact Form</a>
+</div> <!-- end button -->
+
+
