@@ -13,6 +13,10 @@ window.onbeforeunload = () => {
     form.reset();
   }
 }
+
+function formRedirect {
+  window.location.href = '/contact-thanks';
+}
 </script>
 
 <div class="white-block">
@@ -21,7 +25,7 @@ window.onbeforeunload = () => {
 
 
 <div class="contactform">
-    <form id="contact" class="form autofill" method="POST" action="https://formspree.io/f/xqayezyj">
+    <form id="contact" class="form autofill" method="POST" action="https://formspree.io/f/xqayezyj" onsubmit="formRedirect()">
         <input type="hidden" name="subject" value="New submission!">    
         <div class="half">
             <label for="firstname">First name</label>
