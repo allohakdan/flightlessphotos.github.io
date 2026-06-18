@@ -14,7 +14,7 @@ window.onbeforeunload = () => {
   }
 }
 
-function formRedirect {
+function formRedirect() {
   window.location.href = '/contact-thanks';
 }
 </script>
