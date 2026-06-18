@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact Me
 permalink: /contact
 ---
 
@@ -14,20 +14,6 @@ window.onbeforeunload = () => {
   }
 }
 </script>
-
-<!--
-<div class="white-block">
-I am honored and excited that you are interested in working with me!
-Please fill out the information below and I will get in touch with you soon.
-<p>You can also contact me directly </p>
-<ul>
-  <li>Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a></li>
-  <li>Text or Call <a href="tel:3047294636">(304) 729-4636</a></li>
-</ul>
-</div> 
--->
-<!-- end white-block -->
-
 
 <div class="white-block">
 <div class="row">
@@ -51,7 +37,7 @@ Please fill out the information below and I will get in touch with you soon.
             <input type="email" name="email" id="email" class="form-control" required="">
         </div>
 
-        <div>
+<!--        <div>
             <label for="email">Confirm Email address</label>
             <input type="confirmemail" name="confirmemail" id="confirmemail" class="form-control" required="">
         </div>
@@ -117,7 +103,7 @@ Please fill out the information below and I will get in touch with you soon.
          <div class="radio">
             <label><input type="radio" name="session" value="other" required="">Something else!</label>
         </div>
-
+-->
 
          <div>
             <label for="message">Message (optional)</label>
