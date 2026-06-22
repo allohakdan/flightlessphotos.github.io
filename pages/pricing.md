@@ -124,6 +124,7 @@ Includes Family Portraits, Group, Team, and Class Photos
 </div> <!-- end white-block -->
 
 <div class="white-block">
+<h2>Frequently Asked Questions</h2>
 {% include accordion.html %}
 </div> <!-- end white-block -->
 
