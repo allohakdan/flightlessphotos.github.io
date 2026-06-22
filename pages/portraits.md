@@ -70,7 +70,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 </div> <!-- end button -->
 </div> <!-- end box -->
 
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/family.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
