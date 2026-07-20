@@ -66,6 +66,7 @@ The results are lifelong keepsakes that portray the true personality of your chi
 
 
 <div class="white-block">
+<h2>Frequently Asked Questions</h2>
 {% include accordion.html %}
 </div> <!-- end white-block -->
 
