@@ -2,6 +2,13 @@
 layout: page
 title: Family Portraits
 permalink: /family
+accordion: 
+  - title: Where do you take family photos?
+    content: I can take photos of your family in my studio, outdoors, or in your own home!
+  - title: What if someone is having a bad day?
+    content: TODO
+  - title: Can you help us figure out what we should wear?
+    content: TODO
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
@@ -19,7 +26,7 @@ They are the people we love and trust and live our day-to-day life alongside.
 
 <div class="color-block">
 <div class="row">
-<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids2.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/family/examples/D2508688.jpg"/></div>
 <div class="box">
 <h2> Time sure does fly by! </h2>
 We forget to stop and look around, and when we do everything has changed. Kids grow up so fast they look different practically every time you take their picture! Even as adults we tend change faster than we realize, we are just too busy to notice! We change hair styles, the clothes we wear, and even the way we act over time. Getting regular family photos together is a great way of capturing the way we are now as precious memories for the future.  
@@ -41,8 +48,12 @@ We might let the kids act silly, but these are timeless portraits.
 We use classic soft lighting techniques and a white seamless backdrop to really focus on your child. 
 Instead of encouraging an artificial smile, we work to capture authentically joyful moments that really express their personality. 
 The results are lifelong keepsakes that portray the true personality of your child at this moment in time.
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids4.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/family/examples/D2508383.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
