@@ -63,7 +63,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="row">
 <div class="box">
 <h2> Family Portraits </h2>
-Whether you are looking to create memories, are trying to get a photo to put on this year's greeting cards, or update a portrait on the wall, I can help you get the perfect portrait of your family!
+Family are the most important people in our lives, and that is what makes family portraits so important and special. 
+Whether you are creating new memories, looking for a photo to put on this year's greeting cards, or updating a portrait on the wall, I can help you get the perfect portrait of the people you love the most! 
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
   <a class="button button-color" href="{{ site.github.url }}/family">Learn More</a>
