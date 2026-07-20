@@ -20,8 +20,8 @@ Family means different things to different people.
 For some it may look very traditional. 
 For others, it might be multi-generational. 
 Sometimes family isn't genetic, but rather is who we surround ourselves with. 
-Family can be both the people we didn't choose to have in our lives, and those special enough for us choose to join us. 
-They are the people we love and trust and live our day-to-day life alongside. 
+Family can be both the people we didn't choose to have in our lives, and those special enough for us choose to join them. 
+They are the people we love and trust the most, and live our day-to-day life alongside. 
 </div> <!-- end white-block -->
 
 <div class="color-block">
