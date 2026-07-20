@@ -4,7 +4,7 @@ title: Pricing
 permalink: /pricing
 accordion: 
   - title: Additional Services Available
-    content: Looking for something else? I have several different for-hire models that are not listed here.  If you are looking for something that doesn't fit into one of the above categories, I am still excited to be your photographer! Please book a [free consultation](flightlessphotos.com/free-consultation) with me so I can help you one-on-one.
+    content: Looking for something else? I have several different for-hire models that are not listed here.  If you are looking for something that doesn't fit into one of the above categories, I am still excited to be your photographer! Please book a [free consultation](flightlessphotos.com/online-booking) with me so I can help you one-on-one.
   - title: Location Fees
     content: Some locations, such as parks and museums, have special fees and rules concerning professional photography. I am here to help you realize your vision! Let me help research any relevant additional costs and/or restrictions that may apply for the location you are hoping to use, all before you need to make any committements.
   - title: Travel Fees
