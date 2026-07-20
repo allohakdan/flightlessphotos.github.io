@@ -43,11 +43,10 @@ We forget to stop and look around, and when we do everything has changed. Kids g
 <div class="white-block">
 <div class="row">
 <div class="box">
-<h2> Timeless Portraits </h2>
-We might let the kids act silly, but these are timeless portraits. 
-We use classic soft lighting techniques and a white seamless backdrop to really focus on your child. 
-Instead of encouraging an artificial smile, we work to capture authentically joyful moments that really express their personality. 
-The results are lifelong keepsakes that portray the true personality of your child at this moment in time.
+<h2> A Portrait That Matches Your Family </h2>
+Rather than sticking to a specific artistic style, my goal is to get you photos that match both your vision and your family's own personality and energy. 
+I can help you get photos that look cozy, classy, light hearted, formal, and anything in between. 
+No matter what kind of photos you are looking for, I will give it that timeless look that changes a portrait into a keepsake.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
