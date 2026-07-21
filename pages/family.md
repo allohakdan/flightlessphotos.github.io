@@ -4,6 +4,14 @@ title: Family Portraits
 permalink: /family
 accordion: 
   - title: Where do you take family photos?
+    content: 
+      - title: In My Studio
+        content: TODO
+      - title: Outdoors
+        content: TODO
+      - title: In Your Own Home
+        content: Todo
+  - title: Where do you take them?
     content: I can take photos of your family in my studio, outdoors, or in your own home!
   - title: What if someone is having a bad day?
     content: TODO
