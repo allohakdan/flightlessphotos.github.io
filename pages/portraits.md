@@ -126,7 +126,8 @@ Whether you are creating new memories, looking for a photo to put on this year's
 <h2> Pet Portraits </h2>
 Your best friends.
 Your most trusted companions.
-I know your phone is already full of pictures of them, but let's take a few really nice ones that will look good on the wall!
+They are part of your family.
+I know your phone is already filled with pictures of them, but you should still take the time to get a few realllly nice ones that will look good in a frame on your wall!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/pets">Learn More</a>
