@@ -121,10 +121,12 @@ Whether you are creating new memories, looking for a photo to put on this year's
 <div class="row">
 
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/pets.jpg"/></div>
 <div class="box">
 <h2> Pet Portraits </h2>
-
+Your best friends.
+Your most trusted companions.
+I know your phone is already full of pictures of them, but let's take a few really nice ones that will look good on the wall!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/pets">Learn More</a>
