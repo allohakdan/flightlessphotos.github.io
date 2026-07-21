@@ -54,4 +54,15 @@ Great for creating wallet sized prints you can show off to other parents.
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
+<div class="white-block">
+<h2>All Pets Are Welcome!</h2>
+I know. 
+All the photos on my site are currently of cats.
+That is because my webmaster is a cat and absolutely refuses to put any of my other pet portraits online.
+I tried talking to my manager about it, but she is also a cat, and sided with the webmaster, so there is really nothing else I can do about it right now.
+<br/>&nbsp;<br/>
+But I really do love all animals, and will photograph anyone!
+I have photographed floppy eared dogs, fuzzy spiders, and squiggly snakes.
+If you have a hampster, turtle, bunny, bird, lizard, or racoon, I'd happy to get their photos too.
 
+</div> <!-- end white-block -->
