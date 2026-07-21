@@ -55,6 +55,18 @@ If you are feeling sick or have been in close contact with someone you believe m
 </div> <!-- end white-block -->
 
 <div class="color-block">
+<h2>Digital Privacy Matters</h2>
+I take your privacy very seriously. 
+While I love to show off everyone's amazing pictures on my website and social media, I also understand that this can be a major concern for some people.
+Please know that I am here to support you however I can.
+I do not post public images of anyone without their permission.
+<br/>&nbsp;<br/>
+My photographs are <b>NEVER</b> permitted to be used for facial recognition, AI, biometric, or any other digital models, datasets, or algorithmic training purposes, and my legal team will prosecute violators.  
+But I could also use your help! 
+I am currently raising money (<a href="{{ site.github.url }}/tips">through tips on Ko-Fi</a>) to purchase a higher powered computer with a GPU capable of <a href="https://nightshade.cs.uchicago.edu/whatis.html">glazing and shading digital images</a> to poison any data sets that illegally try to use my photos.
+</div> <!-- end color-block -->
+
+<div class="white-block">
 <h2>Contact Information</h2>
 I'm excited to meet you! Need to get in touch with me? My professional contact information is listed below. I will respond to you as quickly as I can, but please be patient. I am just a regular person, who sometimes has a lot going on!
 <ul>
@@ -62,7 +74,10 @@ I'm excited to meet you! Need to get in touch with me? My professional contact i
 <li> Text or Call <a href="tel:3047294636">(304) 729-4636</a></li>
 </ul>
 
-</div> <!-- end color-block -->
+
+
+</div> <!-- end white-block -->
+
 <!--
  For quotes or to to book a photoshoot, please fill out our <a href="{{ site.github.url }}/contact">Online Contact Form</a> or get in touch with me via
 -->
