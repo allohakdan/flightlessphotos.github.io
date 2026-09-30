@@ -73,10 +73,10 @@ No matter what kind of photos you are looking for, I will give it that timeless 
 
 
 
-<div class="white-block">
-<h2>Frequently Asked Questions</h2>
-{% include accordion.html %}
-</div> <!-- end white-block -->
+<!-- div class="white-block" -->
+<!-- h2>Frequently Asked Questions</h2 -->
+<!-- {% include accordion.html %} -->
+<!-- /div --> <!-- end white-block -->
 
 
 {% include image-gallery.html folder="/assets/img/family/examples" %}
