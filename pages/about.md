@@ -62,8 +62,10 @@ Please know that I am here to support you however I can.
 I do not post public images of anyone without their permission.
 <br/>&nbsp;<br/>
 My photographs are <b>NEVER</b> permitted to be used for facial recognition, AI, biometric, or any other digital models, datasets, or algorithmic training purposes, and my legal team will prosecute violators.  
+<!--
 But I could also use your help! 
 I am currently raising money (<a href="{{ site.github.url }}/tips">through tips on Ko-Fi</a>) to purchase a higher powered computer with a GPU capable of <a href="https://nightshade.cs.uchicago.edu/whatis.html">glazing and shading digital images</a> to poison any data sets that illegally try to use my photos.
+-->
 </div> <!-- end color-block -->
 
 <div class="white-block">
