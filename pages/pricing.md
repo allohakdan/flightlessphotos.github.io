@@ -69,7 +69,8 @@ Includes Family Portraits, Group, Team, and Class Photos
 <dt style="font-size: 1.1em; text-align: center;">$75 for 45 minute session base fee</dt>
     <dd style="display: block;">+ $15 per person/pet (first 5 people, 2 person minimum)</dd>
     <dd style="display: block;">+ $5 per person (after the first 5 people)</dd>
-    <dd style="display: block;">+ $50 for groups > 8 (30 extra minutes)</dd>
+    <dd style="display: block;">+ $50 for 30 extra minutes</dd>
+    <dd style="display: block;">OR +$150 flat rate for groups > 10</dd>
 <dt>Includes</dt>
     <dd>2 professionally edited / retouched images of your choice</dd>
     <dd>Single Outfit per Person</dd>
