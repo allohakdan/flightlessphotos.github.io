@@ -166,10 +166,10 @@ Get ready to impress your friends with photos from our sports photoshoot!
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
 <div class="box">
 <h2> "I don't look good in pictures." </h2>
-If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
-You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
-We will guide you through every step of the process, including what to wear and how to pose.
-We see the beauty in everyone, and want to help you find it.
+If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - I am here for you! 
+You are not alone, lots of people do not naturally feel comfortable in front of a camera, but I can help make you feel confident and relaxed so you can be yourself!
+I will guide you through every step of the process, including what to wear and how to pose.
+I see authentic beauty in everyone, and I want to help you find it in yourself.
 Having your picture taken can be fun, let us prove it to you!
 </div> <!-- end box -->
 
