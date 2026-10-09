@@ -60,7 +60,7 @@ Note from Dan: I am aware that all of the photos on this page are currently of c
 That is because my webmaster is a cat, and claims that out of all the pet portraits I gave them to use, they "just happened" to only pick pictures of cats to post.
 I strongly disagree with their decision because I really do love all animals, and will photograph anyone!
 I have photographed floppy eared dogs, fuzzy spiders, and squiggly snakes.
-If you have a hampster, turtle, bunny, bird, lizard, or racoon, I would be happy to get their photos too.
+If you have a hamster, turtle, bunny, bird, lizard, or raccoon, I would be happy to get their photos too.
 I tried talking to my manager about this issue, but she is also a cat, and sided with the webmaster. 
 There is really nothing else I can do about this.
 </div> <!-- end white-block -->
