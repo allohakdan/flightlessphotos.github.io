@@ -29,7 +29,10 @@
             {% if item.children %}
             <div class="mobile-subdropdown">
                 <input type="checkbox" id="mobile-toggle-{{ item.name | slugify }}" class="mobile-toggle-checkbox">
-                <label for="mobile-toggle-{{ item.name | slugify }}" class="mobile-toggle-label"><i class="fa fa-caret-down" aria-hidden="true"></i> {{ item.name }}</label>
+                <label for="mobile-toggle-{{ item.name | slugify }}" class="mobile-toggle-label"><i class="fa fa-caret-down" aria-hidden="true"></i>
+                    <div class="mobile-toggle-label-link"><a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a></div>
+                    <div class="mobile-toggle-label-nolink">{{ item.name }}</div>
+                </label>
                 <div class="mobile-subdropdown-content">
                     {% for child in item.children %}
                     <a href="{{ site.github.url }}/{{ child.url }}">{{ child.name }}</a>

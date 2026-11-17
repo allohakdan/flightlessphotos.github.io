@@ -186,6 +186,19 @@
         background-color: #f1f1f1;
     }
 
+    .mobile-toggle-label-nolink {
+        display: inline-block;
+    }
+
+    .mobile-toggle-label-link {
+        display: none;
+    }
+
+    .mobile-toggle-label-link a {
+        display: inline-block;
+    }
+
+
     .mobile-subdropdown-content {
         display: none;
         background-color: #f0f0f0;
@@ -211,4 +224,13 @@
     .mobile-toggle-checkbox:checked~.mobile-toggle-label {
         background-color: #f1f1f1;
     }
+
+    .mobile-toggle-checkbox:checked~.mobile-toggle-label .mobile-toggle-label-link {
+        display: inline-block;
+    }
+
+    .mobile-toggle-checkbox:checked~.mobile-toggle-label .mobile-toggle-label-nolink {
+        display: none;
+    }
+
 }
